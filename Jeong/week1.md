@@ -143,7 +143,7 @@ GitHub: 저장소를 관리하는 **클라우드 기반 협업 플랫폼**
 	- clear:	터미널 화면 지우기
 
 ---
-### Markdown
+## Markdown
 
 Markdown: 문서 작성을 위한 경량 마크업 언어
 
