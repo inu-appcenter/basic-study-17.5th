@@ -12,5 +12,5 @@
 
 | 강민서 | 송영의 | 이정 |
 | :---: | :---: | :---: |
-| |  |  |
+|<a href="https://github.com/kmssss56"><img src="https://avatars.githubusercontent.com/u/233876785?v=4" width="120"></a> |<a href="https://github.com/youngiue"><img src="https://avatars.githubusercontent.com/u/198860390?v=4" width="120"></a>  | <a href="https://github.com/Pionia5375"><img src="https://avatars.githubusercontent.com/u/173594120?v=4" width="120"></a> |
 
